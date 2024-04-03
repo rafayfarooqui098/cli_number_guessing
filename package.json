@@ -1,0 +1,21 @@
+{
+  "name": "@farooqui/cli_number_guessing",
+  "version": "2.0.1",
+  "description": "creating game by typescript,inquirer",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {"access": "public"},
+  "bin": "guessing.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rafay farooqui",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
