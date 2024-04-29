@@ -1,11 +1,11 @@
 {
-  "name": "@farooqui/cli_number_guessing",
-  "version": "2.0.1",
+  "name": "farooqui786-cli_number_guessing",
+  "version": "2.0.2",
   "description": "creating game by typescript,inquirer",
   "main": "index.js",
   "type": "module",
   "publishConfig": {"access": "public"},
-  "bin": "guessing.ts",
+  "bin": "guessing.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
